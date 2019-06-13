@@ -9,4 +9,4 @@ Last Name
 Email
 Marks: English Maths Science 
 
-Note : This is Simple form which you can use to chnage with with your need and enjoy the benifits.
+Note : This is Simple data display and adding page which you can use to chnage with with your need and enjoy the benifits.
