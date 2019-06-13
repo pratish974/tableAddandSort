@@ -1,5 +1,5 @@
 <?php
-include "../includes/connection.php";
+include "connection.php";
 extract($_POST);
 /*echo "<pre>";
 print_r(extract($_POST));
